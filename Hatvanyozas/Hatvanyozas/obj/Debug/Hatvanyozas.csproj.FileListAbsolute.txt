@@ -1,0 +1,7 @@
+C:\Users\diak\source\repos\Hatvanyozas\Hatvanyozas\bin\Debug\Hatvanyozas.exe.config
+C:\Users\diak\source\repos\Hatvanyozas\Hatvanyozas\bin\Debug\Hatvanyozas.exe
+C:\Users\diak\source\repos\Hatvanyozas\Hatvanyozas\bin\Debug\Hatvanyozas.pdb
+C:\Users\diak\source\repos\Hatvanyozas\Hatvanyozas\obj\Debug\Hatvanyozas.csproj.AssemblyReference.cache
+C:\Users\diak\source\repos\Hatvanyozas\Hatvanyozas\obj\Debug\Hatvanyozas.csproj.CoreCompileInputs.cache
+C:\Users\diak\source\repos\Hatvanyozas\Hatvanyozas\obj\Debug\Hatvanyozas.exe
+C:\Users\diak\source\repos\Hatvanyozas\Hatvanyozas\obj\Debug\Hatvanyozas.pdb
