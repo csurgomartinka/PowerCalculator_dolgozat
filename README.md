@@ -1,0 +1,1 @@
+# PowerCalculator_dolgozat
